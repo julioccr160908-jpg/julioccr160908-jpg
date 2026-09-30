@@ -24,6 +24,26 @@ Sou um Desenvolvedor Backend apaixonado por transformar regras de negócio compl
 
 ---
 
+### 📊 As Minhas Estatísticas e Contribuições
+
+<div align="center">
+  <!-- Cartão de Estatísticas do GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=julioccr160908-jpg&show_icons=true&theme=dark&bg_color=111111&border_color=30363D&icon_color=47D38D" alt="Estatísticas do GitHub do Júlio" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Animação da Cobrinha (Snake) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julioccr160908-jpg/julioccr160908-jpg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julioccr160908-jpg/julioccr160908-jpg/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/julioccr160908-jpg/julioccr160908-jpg/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 📫 Como Contactar-me
 <p align="left">
   <a href="mailto:julioccr160908@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
