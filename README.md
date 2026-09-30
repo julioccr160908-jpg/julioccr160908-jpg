@@ -4,7 +4,7 @@
 
 <br/>
 
-### 👨‍‍💻 Sobre Mim
+### 👨‍💻 Sobre Mim
 Sou um Desenvolvedor Backend apaixonado por transformar regras de negócio complexas em software estruturado, seguro e eficiente. O meu foco principal é sair do "código solto" e construir sistemas robustos baseados em boas práticas (SRP, Clean Code e Validação Defensiva).
 
 - 🚀 **A construir no momento:** Sistemas de gestão, motores de regras matemáticos e arquiteturas modulares.
@@ -21,18 +21,6 @@ Sou um Desenvolvedor Backend apaixonado por transformar regras de negócio compl
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
-
----
-
-### 📊 As minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julioccr160908-jpg&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioccr160908-jpg&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=julioccr160908-jpg&theme=radical&hide_border=true" width="100%" />
-</div>
 
 ---
 
